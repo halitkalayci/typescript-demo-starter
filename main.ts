@@ -4,3 +4,5 @@
 // GetAll, GetById, Add, Delete, Update
 
 // Bütün servisleri ve bütün aksiyonlarını main.ts'de test et.
+
+console.log(["halit", 1, 2].find(e => e == 1));
